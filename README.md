@@ -15,6 +15,6 @@ I also made use of cookies. Cloudflare's template gallery has some useful code o
 
 I do not own any other domains and thus did not tackle the third extra credit challenge.
 
-## Others
+## Notes
 
 `wrangler dev` was particularly useful in locally testing my application.
