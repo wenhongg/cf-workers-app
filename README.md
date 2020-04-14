@@ -4,7 +4,7 @@ Here's my submission for the Cloudflare Workers Internship Application: Full-Sta
 
 ## Steps taken
 
-I used Cloudflare workers to deploy an application to randomly send users to one of two webpages. The application is to be deployed soon.
+I used Cloudflare workers to deploy an application to randomly send users to one of two webpages. The application is deployed on a [worker.dev subdomain](https://cf-workers-app.wenl.workers.dev/).
 
 ## Things I did
 
@@ -18,3 +18,5 @@ I do not own any other domains and thus did not tackle the third extra credit ch
 ## Notes
 
 `wrangler dev` was particularly useful in locally testing my application.
+
+For security, I have removed my account ID from wrangler.toml.

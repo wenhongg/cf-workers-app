@@ -1,4 +1,4 @@
-name = "cloudf"
+name = "cf-workers-app"
 type = "javascript"
 account_id = ""
 workers_dev = true
