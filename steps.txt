@@ -1,5 +1,0 @@
-
-
-wrangler dev
-wrangler preview --watch
-wrangler build
